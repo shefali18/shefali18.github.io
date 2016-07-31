@@ -4,7 +4,7 @@ body {
 }
 
 #home {
-  background: url(../images/background.jpg) center center no-repeat;
+  background: url(../images/background.JPG) center center no-repeat;
   background-size: cover;
   height: 100%;
   width:100%;
@@ -34,7 +34,7 @@ body {
 }
 
 #interest {
-    background: url(images/brooklyn-sunset.jpg) center center no-repeat;
+    background: url(../images/brooklyn-sunset.JPG) center center no-repeat;
     background-size: cover;
     height: 100%;
     width:100%;
