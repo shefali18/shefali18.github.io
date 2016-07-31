@@ -1,0 +1,60 @@
+html,
+body {
+  height: 100%
+}
+
+#home {
+  background: url(images/background.jpg) center center no-repeat;
+  background-size: cover;
+  height: 100%;
+  width:100%;
+  display:flex;
+  align-items: center;
+  color: white;
+}
+
+#home-caption {
+    text-align:center;
+    margin:0 auto;
+}
+
+#home-caption h1 {
+    color: white;
+}
+
+#about {
+    background: #262F36;
+    overflow: hidden;
+}
+
+.about-content {
+    color: white;
+    padding: 10rem 100px;
+
+}
+
+#interest {
+    background: url(images/brooklyn-sunset.jpg) center center no-repeat;
+    background-size: cover;
+    height: 100%;
+    width:100%;
+    display:flex;
+    align-items: center;
+}
+
+.interest-text{
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    padding:50px;
+}
+
+#contact {
+  background: #222;
+  color:white;
+  padding: 60px 0;
+  }
+
+#main-footer {
+  background: #222;
+  color:white;
+}
